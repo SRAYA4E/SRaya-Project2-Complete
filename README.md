@@ -1,1 +1,2 @@
-# SRaya-Project2-Complete
+# JSPlatformer
+JS Platformer for DIG 3480C
